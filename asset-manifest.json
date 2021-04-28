@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/%E2%80%9Chttps://DanBertrand.github.io/Portfolio%E2%80%9D/static/css/main.4950a754.chunk.css",
+    "main.js": "/%E2%80%9Chttps://DanBertrand.github.io/Portfolio%E2%80%9D/static/js/main.74852260.chunk.js",
+    "main.js.map": "/%E2%80%9Chttps://DanBertrand.github.io/Portfolio%E2%80%9D/static/js/main.74852260.chunk.js.map",
+    "runtime-main.js": "/%E2%80%9Chttps://DanBertrand.github.io/Portfolio%E2%80%9D/static/js/runtime-main.2c0bcaf5.js",
+    "runtime-main.js.map": "/%E2%80%9Chttps://DanBertrand.github.io/Portfolio%E2%80%9D/static/js/runtime-main.2c0bcaf5.js.map",
+    "static/js/2.b1aff50a.chunk.js": "/%E2%80%9Chttps://DanBertrand.github.io/Portfolio%E2%80%9D/static/js/2.b1aff50a.chunk.js",
+    "static/js/2.b1aff50a.chunk.js.map": "/%E2%80%9Chttps://DanBertrand.github.io/Portfolio%E2%80%9D/static/js/2.b1aff50a.chunk.js.map",
+    "index.html": "/%E2%80%9Chttps://DanBertrand.github.io/Portfolio%E2%80%9D/index.html",
+    "static/css/main.4950a754.chunk.css.map": "/%E2%80%9Chttps://DanBertrand.github.io/Portfolio%E2%80%9D/static/css/main.4950a754.chunk.css.map",
+    "static/js/2.b1aff50a.chunk.js.LICENSE.txt": "/%E2%80%9Chttps://DanBertrand.github.io/Portfolio%E2%80%9D/static/js/2.b1aff50a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c0bcaf5.js",
+    "static/js/2.b1aff50a.chunk.js",
+    "static/css/main.4950a754.chunk.css",
+    "static/js/main.74852260.chunk.js"
+  ]
+}
